@@ -1,0 +1,1248 @@
+[
+  {
+    "name": "auth___en",
+    "path": "/auth",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\index.vue",
+    "chunkName": "pages/auth/index",
+    "_name": "_76801afa"
+  },
+  {
+    "name": "confirm-password___en",
+    "path": "/confirm-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\confirm-password.vue",
+    "chunkName": "pages/confirm-password",
+    "_name": "_d6168802"
+  },
+  {
+    "name": "reset-password___en",
+    "path": "/reset-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\reset-password.vue",
+    "chunkName": "pages/reset-password",
+    "_name": "_f6661ce0"
+  },
+  {
+    "name": "index___ro",
+    "path": "/ro",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0fe3896b"
+  },
+  {
+    "name": "templates___en",
+    "path": "/templates",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\index.vue",
+    "chunkName": "pages/templates/index",
+    "_name": "_7323d720"
+  },
+  {
+    "name": "test___en",
+    "path": "/test",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_39849309"
+  },
+  {
+    "name": "two-factor-challenge___en",
+    "path": "/two-factor-challenge",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\two-factor-challenge.vue",
+    "chunkName": "pages/two-factor-challenge",
+    "_name": "_8af14586"
+  },
+  {
+    "name": "two-factor-challenge-recovery___en",
+    "path": "/two-factor-challenge-recovery",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\two-factor-challenge-recovery.vue",
+    "chunkName": "pages/two-factor-challenge-recovery",
+    "_name": "_bf43f956"
+  },
+  {
+    "name": "auth-dashboard___en",
+    "path": "/auth/dashboard",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\dashboard.vue",
+    "chunkName": "pages/auth/dashboard",
+    "_name": "_76ad4ec5"
+  },
+  {
+    "name": "auth-forgot-password___en",
+    "path": "/auth/forgot-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\forgot-password.vue",
+    "chunkName": "pages/auth/forgot-password",
+    "_name": "_fc38c214"
+  },
+  {
+    "name": "auth-login___en",
+    "path": "/auth/login",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_e330d4cc"
+  },
+  {
+    "name": "auth-profile___en",
+    "path": "/auth/profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\profile\\\\index.vue",
+    "chunkName": "pages/auth/profile/index",
+    "_name": "_1b8574b0"
+  },
+  {
+    "name": "auth-register___en",
+    "path": "/auth/register",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_f2e935fc"
+  },
+  {
+    "name": "auth-verify___en",
+    "path": "/auth/verify",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\verify.vue",
+    "chunkName": "pages/auth/verify",
+    "_name": "_6bc38998"
+  },
+  {
+    "name": "auth___ro",
+    "path": "/ro/auth",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\index.vue",
+    "chunkName": "pages/auth/index",
+    "_name": "_76801afa"
+  },
+  {
+    "name": "confirm-password___ro",
+    "path": "/ro/confirm-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\confirm-password.vue",
+    "chunkName": "pages/confirm-password",
+    "_name": "_d6168802"
+  },
+  {
+    "name": "reset-password___ro",
+    "path": "/ro/reset-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\reset-password.vue",
+    "chunkName": "pages/reset-password",
+    "_name": "_f6661ce0"
+  },
+  {
+    "name": "templates___ro",
+    "path": "/ro/templates",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\index.vue",
+    "chunkName": "pages/templates/index",
+    "_name": "_7323d720"
+  },
+  {
+    "name": "test___ro",
+    "path": "/ro/test",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_39849309"
+  },
+  {
+    "name": "two-factor-challenge___ro",
+    "path": "/ro/two-factor-challenge",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\two-factor-challenge.vue",
+    "chunkName": "pages/two-factor-challenge",
+    "_name": "_8af14586"
+  },
+  {
+    "name": "two-factor-challenge-recovery___ro",
+    "path": "/ro/two-factor-challenge-recovery",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\two-factor-challenge-recovery.vue",
+    "chunkName": "pages/two-factor-challenge-recovery",
+    "_name": "_bf43f956"
+  },
+  {
+    "name": "templates-customer-details___en",
+    "path": "/templates/customer-details",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\customer-details.vue",
+    "chunkName": "pages/templates/customer-details",
+    "_name": "_735b16a5"
+  },
+  {
+    "name": "templates-new-customer___en",
+    "path": "/templates/new-customer",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\new-customer.vue",
+    "chunkName": "pages/templates/new-customer",
+    "_name": "_220a0dbd"
+  },
+  {
+    "name": "templates-tables___en",
+    "path": "/templates/tables",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\tables.vue",
+    "chunkName": "pages/templates/tables",
+    "_name": "_f668f592"
+  },
+  {
+    "name": "auth-profile-resets-password___en",
+    "path": "/auth/profile/resets-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\profile\\\\resets-password.vue",
+    "chunkName": "pages/auth/profile/resets-password",
+    "_name": "_754398cc"
+  },
+  {
+    "name": "auth-profile-update___en",
+    "path": "/auth/profile/update",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\profile\\\\update.vue",
+    "chunkName": "pages/auth/profile/update",
+    "_name": "_19dfa363"
+  },
+  {
+    "name": "auth-dashboard___ro",
+    "path": "/ro/auth/dashboard",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\dashboard.vue",
+    "chunkName": "pages/auth/dashboard",
+    "_name": "_76ad4ec5"
+  },
+  {
+    "name": "auth-forgot-password___ro",
+    "path": "/ro/auth/forgot-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\forgot-password.vue",
+    "chunkName": "pages/auth/forgot-password",
+    "_name": "_fc38c214"
+  },
+  {
+    "name": "auth-login___ro",
+    "path": "/ro/auth/login",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_e330d4cc"
+  },
+  {
+    "name": "auth-profile___ro",
+    "path": "/ro/auth/profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\profile\\\\index.vue",
+    "chunkName": "pages/auth/profile/index",
+    "_name": "_1b8574b0"
+  },
+  {
+    "name": "auth-register___ro",
+    "path": "/ro/auth/register",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_f2e935fc"
+  },
+  {
+    "name": "auth-verify___ro",
+    "path": "/ro/auth/verify",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\verify.vue",
+    "chunkName": "pages/auth/verify",
+    "_name": "_6bc38998"
+  },
+  {
+    "name": "templates-customer-details___ro",
+    "path": "/ro/templates/customer-details",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\customer-details.vue",
+    "chunkName": "pages/templates/customer-details",
+    "_name": "_735b16a5"
+  },
+  {
+    "name": "templates-new-customer___ro",
+    "path": "/ro/templates/new-customer",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\new-customer.vue",
+    "chunkName": "pages/templates/new-customer",
+    "_name": "_220a0dbd"
+  },
+  {
+    "name": "templates-tables___ro",
+    "path": "/ro/templates/tables",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\templates\\\\tables.vue",
+    "chunkName": "pages/templates/tables",
+    "_name": "_f668f592"
+  },
+  {
+    "name": "auth-profile-resets-password___ro",
+    "path": "/ro/auth/profile/resets-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\profile\\\\resets-password.vue",
+    "chunkName": "pages/auth/profile/resets-password",
+    "_name": "_754398cc"
+  },
+  {
+    "name": "auth-profile-update___ro",
+    "path": "/ro/auth/profile/update",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\auth\\\\profile\\\\update.vue",
+    "chunkName": "pages/auth/profile/update",
+    "_name": "_19dfa363"
+  },
+  {
+    "name": "layout-billing___ro",
+    "path": "/ro/:layout/billing",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing.vue",
+    "chunkName": "pages/_layout/billing",
+    "_name": "_f76f6e6e"
+  },
+  {
+    "name": "layout-billing-history___ro",
+    "path": "/ro/:layout/billing-history",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-history.vue",
+    "chunkName": "pages/_layout/billing-history",
+    "_name": "_a70dd7e0"
+  },
+  {
+    "name": "layout-billing-invoice___ro",
+    "path": "/ro/:layout/billing-invoice",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-invoice.vue",
+    "chunkName": "pages/_layout/billing-invoice",
+    "_name": "_641c7e29"
+  },
+  {
+    "name": "layout-billing-payment___ro",
+    "path": "/ro/:layout/billing-payment",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-payment.vue",
+    "chunkName": "pages/_layout/billing-payment",
+    "_name": "_3bad5882"
+  },
+  {
+    "name": "layout-billing-upgrade___ro",
+    "path": "/ro/:layout/billing-upgrade",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-upgrade.vue",
+    "chunkName": "pages/_layout/billing-upgrade",
+    "_name": "_298bc598"
+  },
+  {
+    "name": "layout-blog___ro",
+    "path": "/ro/:layout/blog",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\blog.vue",
+    "chunkName": "pages/_layout/blog",
+    "_name": "_1fac93c4"
+  },
+  {
+    "name": "layout-blog-post___ro",
+    "path": "/ro/:layout/blog-post",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\blog-post.vue",
+    "chunkName": "pages/_layout/blog-post",
+    "_name": "_5fcd0e8e"
+  },
+  {
+    "name": "layout-change-password___ro",
+    "path": "/ro/:layout/change-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\change-password.vue",
+    "chunkName": "pages/_layout/change-password",
+    "_name": "_05cdc9e6"
+  },
+  {
+    "name": "layout-discussion___ro",
+    "path": "/ro/:layout/discussion",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\discussion.vue",
+    "chunkName": "pages/_layout/discussion",
+    "_name": "_1d574c6c"
+  },
+  {
+    "name": "layout-discussions___ro",
+    "path": "/ro/:layout/discussions",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\discussions.vue",
+    "chunkName": "pages/_layout/discussions",
+    "_name": "_3ce28099"
+  },
+  {
+    "name": "layout-discussions-ask___ro",
+    "path": "/ro/:layout/discussions-ask",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\discussions-ask.vue",
+    "chunkName": "pages/_layout/discussions-ask",
+    "_name": "_4e4c1145"
+  },
+  {
+    "name": "layout-edit-account___ro",
+    "path": "/ro/:layout/edit-account",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\edit-account.vue",
+    "chunkName": "pages/_layout/edit-account",
+    "_name": "_ddff70e8"
+  },
+  {
+    "name": "layout-edit-account-notifications___ro",
+    "path": "/ro/:layout/edit-account-notifications",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\edit-account-notifications.vue",
+    "chunkName": "pages/_layout/edit-account-notifications",
+    "_name": "_16b5a632"
+  },
+  {
+    "name": "layout-edit-account-profile___ro",
+    "path": "/ro/:layout/edit-account-profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\edit-account-profile.vue",
+    "chunkName": "pages/_layout/edit-account-profile",
+    "_name": "_43e09b30"
+  },
+  {
+    "name": "layout-faq___ro",
+    "path": "/ro/:layout/faq",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\faq.vue",
+    "chunkName": "pages/_layout/faq",
+    "_name": "_08aa1238"
+  },
+  {
+    "name": "layout-forgot-password___ro",
+    "path": "/ro/:layout/forgot-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\forgot-password.vue",
+    "chunkName": "pages/_layout/forgot-password",
+    "_name": "_09eeed53"
+  },
+  {
+    "name": "layout-help-center___ro",
+    "path": "/ro/:layout/help-center",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\help-center.vue",
+    "chunkName": "pages/_layout/help-center",
+    "_name": "_89c5b6a2"
+  },
+  {
+    "name": "layout-home___ro",
+    "path": "/ro/:layout/home",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\home.vue",
+    "chunkName": "pages/_layout/home",
+    "_name": "_2a207281"
+  },
+  {
+    "name": "layout-instructor-courses___ro",
+    "path": "/ro/:layout/instructor-courses",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-courses.vue",
+    "chunkName": "pages/_layout/instructor-courses",
+    "_name": "_a5ad1bac"
+  },
+  {
+    "name": "layout-instructor-dashboard___ro",
+    "path": "/ro/:layout/instructor-dashboard",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-dashboard.vue",
+    "chunkName": "pages/_layout/instructor-dashboard",
+    "_name": "_709446f4"
+  },
+  {
+    "name": "layout-instructor-earnings___ro",
+    "path": "/ro/:layout/instructor-earnings",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-earnings.vue",
+    "chunkName": "pages/_layout/instructor-earnings",
+    "_name": "_71761627"
+  },
+  {
+    "name": "layout-instructor-edit-course___ro",
+    "path": "/ro/:layout/instructor-edit-course",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-edit-course.vue",
+    "chunkName": "pages/_layout/instructor-edit-course",
+    "_name": "_22387bb0"
+  },
+  {
+    "name": "layout-instructor-edit-quiz___ro",
+    "path": "/ro/:layout/instructor-edit-quiz",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-edit-quiz.vue",
+    "chunkName": "pages/_layout/instructor-edit-quiz",
+    "_name": "_bd82e7ac"
+  },
+  {
+    "name": "layout-instructor-profile___ro",
+    "path": "/ro/:layout/instructor-profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-profile.vue",
+    "chunkName": "pages/_layout/instructor-profile",
+    "_name": "_88af10ca"
+  },
+  {
+    "name": "layout-instructor-quizzes___ro",
+    "path": "/ro/:layout/instructor-quizzes",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-quizzes.vue",
+    "chunkName": "pages/_layout/instructor-quizzes",
+    "_name": "_4983b125"
+  },
+  {
+    "name": "layout-instructor-statement___ro",
+    "path": "/ro/:layout/instructor-statement",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-statement.vue",
+    "chunkName": "pages/_layout/instructor-statement",
+    "_name": "_09a135e1"
+  },
+  {
+    "name": "layout-login___ro",
+    "path": "/ro/:layout/login",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\login.vue",
+    "chunkName": "pages/_layout/login",
+    "_name": "_37d2c437"
+  },
+  {
+    "name": "layout-messages___ro",
+    "path": "/ro/:layout/messages",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\messages.vue",
+    "chunkName": "pages/_layout/messages",
+    "_name": "_109e2b6e"
+  },
+  {
+    "name": "layout-pricing___ro",
+    "path": "/ro/:layout/pricing",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\pricing.vue",
+    "chunkName": "pages/_layout/pricing",
+    "_name": "_48b1aed8"
+  },
+  {
+    "name": "layout-signup___ro",
+    "path": "/ro/:layout/signup",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\signup.vue",
+    "chunkName": "pages/_layout/signup",
+    "_name": "_0edfafba"
+  },
+  {
+    "name": "layout-student-course___ro",
+    "path": "/ro/:layout/student-course",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-course.vue",
+    "chunkName": "pages/_layout/student-course",
+    "_name": "_b305fbe2"
+  },
+  {
+    "name": "layout-student-courses___ro",
+    "path": "/ro/:layout/student-courses",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-courses.vue",
+    "chunkName": "pages/_layout/student-courses",
+    "_name": "_2ccee0f4"
+  },
+  {
+    "name": "layout-student-dashboard___ro",
+    "path": "/ro/:layout/student-dashboard",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-dashboard.vue",
+    "chunkName": "pages/_layout/student-dashboard",
+    "_name": "_188a7e60"
+  },
+  {
+    "name": "layout-student-lesson___ro",
+    "path": "/ro/:layout/student-lesson",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-lesson.vue",
+    "chunkName": "pages/_layout/student-lesson",
+    "_name": "_5d960ea8"
+  },
+  {
+    "name": "layout-student-my-courses___ro",
+    "path": "/ro/:layout/student-my-courses",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-my-courses.vue",
+    "chunkName": "pages/_layout/student-my-courses",
+    "_name": "_619142ea"
+  },
+  {
+    "name": "layout-student-my-paths___ro",
+    "path": "/ro/:layout/student-my-paths",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-my-paths.vue",
+    "chunkName": "pages/_layout/student-my-paths",
+    "_name": "_6a4aa381"
+  },
+  {
+    "name": "layout-student-my-quizzes___ro",
+    "path": "/ro/:layout/student-my-quizzes",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-my-quizzes.vue",
+    "chunkName": "pages/_layout/student-my-quizzes",
+    "_name": "_6b919d86"
+  },
+  {
+    "name": "layout-student-path___ro",
+    "path": "/ro/:layout/student-path",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-path.vue",
+    "chunkName": "pages/_layout/student-path",
+    "_name": "_996e0fce"
+  },
+  {
+    "name": "layout-student-paths___ro",
+    "path": "/ro/:layout/student-paths",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-paths.vue",
+    "chunkName": "pages/_layout/student-paths",
+    "_name": "_8cfca7ac"
+  },
+  {
+    "name": "layout-student-profile___ro",
+    "path": "/ro/:layout/student-profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-profile.vue",
+    "chunkName": "pages/_layout/student-profile",
+    "_name": "_3b4de665"
+  },
+  {
+    "name": "layout-student-quiz-result___ro",
+    "path": "/ro/:layout/student-quiz-result",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-quiz-result.vue",
+    "chunkName": "pages/_layout/student-quiz-result",
+    "_name": "_0e35cb51"
+  },
+  {
+    "name": "layout-student-skill-assessment___ro",
+    "path": "/ro/:layout/student-skill-assessment",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-skill-assessment.vue",
+    "chunkName": "pages/_layout/student-skill-assessment",
+    "_name": "_c2ddbd9c"
+  },
+  {
+    "name": "layout-student-skill-result___ro",
+    "path": "/ro/:layout/student-skill-result",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-skill-result.vue",
+    "chunkName": "pages/_layout/student-skill-result",
+    "_name": "_01388de6"
+  },
+  {
+    "name": "layout-student-take-course___ro",
+    "path": "/ro/:layout/student-take-course",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-take-course.vue",
+    "chunkName": "pages/_layout/student-take-course",
+    "_name": "_6874aedd"
+  },
+  {
+    "name": "layout-student-take-lesson___ro",
+    "path": "/ro/:layout/student-take-lesson",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-take-lesson.vue",
+    "chunkName": "pages/_layout/student-take-lesson",
+    "_name": "_d9a6b50c"
+  },
+  {
+    "name": "layout-student-take-quiz___ro",
+    "path": "/ro/:layout/student-take-quiz",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-take-quiz.vue",
+    "chunkName": "pages/_layout/student-take-quiz",
+    "_name": "_ed50b2d2"
+  },
+  {
+    "name": "layout-teachers___ro",
+    "path": "/ro/:layout/teachers",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\teachers.vue",
+    "chunkName": "pages/_layout/teachers",
+    "_name": "_58939073"
+  },
+  {
+    "name": "layout-ui-alerts___ro",
+    "path": "/ro/:layout/ui-alerts",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-alerts.vue",
+    "chunkName": "pages/_layout/ui-alerts",
+    "_name": "_12d9c384"
+  },
+  {
+    "name": "layout-ui-app-layout___ro",
+    "path": "/ro/:layout/ui-app-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-app-layout.vue",
+    "chunkName": "pages/_layout/ui-app-layout",
+    "_name": "_0a79ce06"
+  },
+  {
+    "name": "layout-ui-avatar___ro",
+    "path": "/ro/:layout/ui-avatar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-avatar.vue",
+    "chunkName": "pages/_layout/ui-avatar",
+    "_name": "_6b0d0c00"
+  },
+  {
+    "name": "layout-ui-cards___ro",
+    "path": "/ro/:layout/ui-cards",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-cards.vue",
+    "chunkName": "pages/_layout/ui-cards",
+    "_name": "_54dc13e8"
+  },
+  {
+    "name": "layout-ui-chart-area___ro",
+    "path": "/ro/:layout/ui-chart-area",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-area.vue",
+    "chunkName": "pages/_layout/ui-chart-area",
+    "_name": "_424426c3"
+  },
+  {
+    "name": "layout-ui-chart-bar___ro",
+    "path": "/ro/:layout/ui-chart-bar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-bar.vue",
+    "chunkName": "pages/_layout/ui-chart-bar",
+    "_name": "_6fd90166"
+  },
+  {
+    "name": "layout-ui-chart-doughnut___ro",
+    "path": "/ro/:layout/ui-chart-doughnut",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-doughnut.vue",
+    "chunkName": "pages/_layout/ui-chart-doughnut",
+    "_name": "_c85c1690"
+  },
+  {
+    "name": "layout-ui-chart-line___ro",
+    "path": "/ro/:layout/ui-chart-line",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-line.vue",
+    "chunkName": "pages/_layout/ui-chart-line",
+    "_name": "_27260aac"
+  },
+  {
+    "name": "layout-ui-chart-radar___ro",
+    "path": "/ro/:layout/ui-chart-radar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-radar.vue",
+    "chunkName": "pages/_layout/ui-chart-radar",
+    "_name": "_70e13780"
+  },
+  {
+    "name": "layout-ui-drawer___ro",
+    "path": "/ro/:layout/ui-drawer",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-drawer.vue",
+    "chunkName": "pages/_layout/ui-drawer",
+    "_name": "_c74490d0"
+  },
+  {
+    "name": "layout-ui-drawer-layout___ro",
+    "path": "/ro/:layout/ui-drawer-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-drawer-layout.vue",
+    "chunkName": "pages/_layout/ui-drawer-layout",
+    "_name": "_078e60a2"
+  },
+  {
+    "name": "layout-ui-fixed-layout___ro",
+    "path": "/ro/:layout/ui-fixed-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-fixed-layout.vue",
+    "chunkName": "pages/_layout/ui-fixed-layout",
+    "_name": "_d56dbbec"
+  },
+  {
+    "name": "layout-ui-form-image-group___ro",
+    "path": "/ro/:layout/ui-form-image-group",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-form-image-group.vue",
+    "chunkName": "pages/_layout/ui-form-image-group",
+    "_name": "_6df2f26b"
+  },
+  {
+    "name": "layout-ui-forms___ro",
+    "path": "/ro/:layout/ui-forms",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-forms.vue",
+    "chunkName": "pages/_layout/ui-forms",
+    "_name": "_500b54d8"
+  },
+  {
+    "name": "layout-ui-header___ro",
+    "path": "/ro/:layout/ui-header",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-header.vue",
+    "chunkName": "pages/_layout/ui-header",
+    "_name": "_0e191998"
+  },
+  {
+    "name": "layout-ui-header-layout___ro",
+    "path": "/ro/:layout/ui-header-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-header-layout.vue",
+    "chunkName": "pages/_layout/ui-header-layout",
+    "_name": "_07020c93"
+  },
+  {
+    "name": "layout-ui-icons___ro",
+    "path": "/ro/:layout/ui-icons",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-icons.vue",
+    "chunkName": "pages/_layout/ui-icons",
+    "_name": "_dd66a37a"
+  },
+  {
+    "name": "layout-ui-input-group-merge___ro",
+    "path": "/ro/:layout/ui-input-group-merge",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-input-group-merge.vue",
+    "chunkName": "pages/_layout/ui-input-group-merge",
+    "_name": "_6c70f910"
+  },
+  {
+    "name": "layout-ui-perfect-scrollbar___ro",
+    "path": "/ro/:layout/ui-perfect-scrollbar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-perfect-scrollbar.vue",
+    "chunkName": "pages/_layout/ui-perfect-scrollbar",
+    "_name": "_ffb27fe2"
+  },
+  {
+    "name": "layout-ui-sidebar___ro",
+    "path": "/ro/:layout/ui-sidebar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-sidebar.vue",
+    "chunkName": "pages/_layout/ui-sidebar",
+    "_name": "_6de95576"
+  },
+  {
+    "name": "layout-ui-sidebar-menu___ro",
+    "path": "/ro/:layout/ui-sidebar-menu",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-sidebar-menu.vue",
+    "chunkName": "pages/_layout/ui-sidebar-menu",
+    "_name": "_33d08517"
+  },
+  {
+    "name": "layout-ui-syntax-highlight___ro",
+    "path": "/ro/:layout/ui-syntax-highlight",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-syntax-highlight.vue",
+    "chunkName": "pages/_layout/ui-syntax-highlight",
+    "_name": "_f1a7c29e"
+  },
+  {
+    "name": "layout-ui-tabs___ro",
+    "path": "/ro/:layout/ui-tabs",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-tabs.vue",
+    "chunkName": "pages/_layout/ui-tabs",
+    "_name": "_cf1e8936"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0fe3896b"
+  },
+  {
+    "name": "layout-billing___en",
+    "path": "/:layout/billing",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing.vue",
+    "chunkName": "pages/_layout/billing",
+    "_name": "_f76f6e6e"
+  },
+  {
+    "name": "layout-billing-history___en",
+    "path": "/:layout/billing-history",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-history.vue",
+    "chunkName": "pages/_layout/billing-history",
+    "_name": "_a70dd7e0"
+  },
+  {
+    "name": "layout-billing-invoice___en",
+    "path": "/:layout/billing-invoice",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-invoice.vue",
+    "chunkName": "pages/_layout/billing-invoice",
+    "_name": "_641c7e29"
+  },
+  {
+    "name": "layout-billing-payment___en",
+    "path": "/:layout/billing-payment",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-payment.vue",
+    "chunkName": "pages/_layout/billing-payment",
+    "_name": "_3bad5882"
+  },
+  {
+    "name": "layout-billing-upgrade___en",
+    "path": "/:layout/billing-upgrade",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\billing-upgrade.vue",
+    "chunkName": "pages/_layout/billing-upgrade",
+    "_name": "_298bc598"
+  },
+  {
+    "name": "layout-blog___en",
+    "path": "/:layout/blog",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\blog.vue",
+    "chunkName": "pages/_layout/blog",
+    "_name": "_1fac93c4"
+  },
+  {
+    "name": "layout-blog-post___en",
+    "path": "/:layout/blog-post",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\blog-post.vue",
+    "chunkName": "pages/_layout/blog-post",
+    "_name": "_5fcd0e8e"
+  },
+  {
+    "name": "layout-change-password___en",
+    "path": "/:layout/change-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\change-password.vue",
+    "chunkName": "pages/_layout/change-password",
+    "_name": "_05cdc9e6"
+  },
+  {
+    "name": "layout-discussion___en",
+    "path": "/:layout/discussion",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\discussion.vue",
+    "chunkName": "pages/_layout/discussion",
+    "_name": "_1d574c6c"
+  },
+  {
+    "name": "layout-discussions___en",
+    "path": "/:layout/discussions",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\discussions.vue",
+    "chunkName": "pages/_layout/discussions",
+    "_name": "_3ce28099"
+  },
+  {
+    "name": "layout-discussions-ask___en",
+    "path": "/:layout/discussions-ask",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\discussions-ask.vue",
+    "chunkName": "pages/_layout/discussions-ask",
+    "_name": "_4e4c1145"
+  },
+  {
+    "name": "layout-edit-account___en",
+    "path": "/:layout/edit-account",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\edit-account.vue",
+    "chunkName": "pages/_layout/edit-account",
+    "_name": "_ddff70e8"
+  },
+  {
+    "name": "layout-edit-account-notifications___en",
+    "path": "/:layout/edit-account-notifications",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\edit-account-notifications.vue",
+    "chunkName": "pages/_layout/edit-account-notifications",
+    "_name": "_16b5a632"
+  },
+  {
+    "name": "layout-edit-account-profile___en",
+    "path": "/:layout/edit-account-profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\edit-account-profile.vue",
+    "chunkName": "pages/_layout/edit-account-profile",
+    "_name": "_43e09b30"
+  },
+  {
+    "name": "layout-faq___en",
+    "path": "/:layout/faq",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\faq.vue",
+    "chunkName": "pages/_layout/faq",
+    "_name": "_08aa1238"
+  },
+  {
+    "name": "layout-forgot-password___en",
+    "path": "/:layout/forgot-password",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\forgot-password.vue",
+    "chunkName": "pages/_layout/forgot-password",
+    "_name": "_09eeed53"
+  },
+  {
+    "name": "layout-help-center___en",
+    "path": "/:layout/help-center",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\help-center.vue",
+    "chunkName": "pages/_layout/help-center",
+    "_name": "_89c5b6a2"
+  },
+  {
+    "name": "layout-home___en",
+    "path": "/:layout/home",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\home.vue",
+    "chunkName": "pages/_layout/home",
+    "_name": "_2a207281"
+  },
+  {
+    "name": "layout-instructor-courses___en",
+    "path": "/:layout/instructor-courses",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-courses.vue",
+    "chunkName": "pages/_layout/instructor-courses",
+    "_name": "_a5ad1bac"
+  },
+  {
+    "name": "layout-instructor-dashboard___en",
+    "path": "/:layout/instructor-dashboard",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-dashboard.vue",
+    "chunkName": "pages/_layout/instructor-dashboard",
+    "_name": "_709446f4"
+  },
+  {
+    "name": "layout-instructor-earnings___en",
+    "path": "/:layout/instructor-earnings",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-earnings.vue",
+    "chunkName": "pages/_layout/instructor-earnings",
+    "_name": "_71761627"
+  },
+  {
+    "name": "layout-instructor-edit-course___en",
+    "path": "/:layout/instructor-edit-course",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-edit-course.vue",
+    "chunkName": "pages/_layout/instructor-edit-course",
+    "_name": "_22387bb0"
+  },
+  {
+    "name": "layout-instructor-edit-quiz___en",
+    "path": "/:layout/instructor-edit-quiz",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-edit-quiz.vue",
+    "chunkName": "pages/_layout/instructor-edit-quiz",
+    "_name": "_bd82e7ac"
+  },
+  {
+    "name": "layout-instructor-profile___en",
+    "path": "/:layout/instructor-profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-profile.vue",
+    "chunkName": "pages/_layout/instructor-profile",
+    "_name": "_88af10ca"
+  },
+  {
+    "name": "layout-instructor-quizzes___en",
+    "path": "/:layout/instructor-quizzes",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-quizzes.vue",
+    "chunkName": "pages/_layout/instructor-quizzes",
+    "_name": "_4983b125"
+  },
+  {
+    "name": "layout-instructor-statement___en",
+    "path": "/:layout/instructor-statement",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\instructor-statement.vue",
+    "chunkName": "pages/_layout/instructor-statement",
+    "_name": "_09a135e1"
+  },
+  {
+    "name": "layout-login___en",
+    "path": "/:layout/login",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\login.vue",
+    "chunkName": "pages/_layout/login",
+    "_name": "_37d2c437"
+  },
+  {
+    "name": "layout-messages___en",
+    "path": "/:layout/messages",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\messages.vue",
+    "chunkName": "pages/_layout/messages",
+    "_name": "_109e2b6e"
+  },
+  {
+    "name": "layout-pricing___en",
+    "path": "/:layout/pricing",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\pricing.vue",
+    "chunkName": "pages/_layout/pricing",
+    "_name": "_48b1aed8"
+  },
+  {
+    "name": "layout-signup___en",
+    "path": "/:layout/signup",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\signup.vue",
+    "chunkName": "pages/_layout/signup",
+    "_name": "_0edfafba"
+  },
+  {
+    "name": "layout-student-course___en",
+    "path": "/:layout/student-course",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-course.vue",
+    "chunkName": "pages/_layout/student-course",
+    "_name": "_b305fbe2"
+  },
+  {
+    "name": "layout-student-courses___en",
+    "path": "/:layout/student-courses",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-courses.vue",
+    "chunkName": "pages/_layout/student-courses",
+    "_name": "_2ccee0f4"
+  },
+  {
+    "name": "layout-student-dashboard___en",
+    "path": "/:layout/student-dashboard",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-dashboard.vue",
+    "chunkName": "pages/_layout/student-dashboard",
+    "_name": "_188a7e60"
+  },
+  {
+    "name": "layout-student-lesson___en",
+    "path": "/:layout/student-lesson",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-lesson.vue",
+    "chunkName": "pages/_layout/student-lesson",
+    "_name": "_5d960ea8"
+  },
+  {
+    "name": "layout-student-my-courses___en",
+    "path": "/:layout/student-my-courses",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-my-courses.vue",
+    "chunkName": "pages/_layout/student-my-courses",
+    "_name": "_619142ea"
+  },
+  {
+    "name": "layout-student-my-paths___en",
+    "path": "/:layout/student-my-paths",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-my-paths.vue",
+    "chunkName": "pages/_layout/student-my-paths",
+    "_name": "_6a4aa381"
+  },
+  {
+    "name": "layout-student-my-quizzes___en",
+    "path": "/:layout/student-my-quizzes",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-my-quizzes.vue",
+    "chunkName": "pages/_layout/student-my-quizzes",
+    "_name": "_6b919d86"
+  },
+  {
+    "name": "layout-student-path___en",
+    "path": "/:layout/student-path",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-path.vue",
+    "chunkName": "pages/_layout/student-path",
+    "_name": "_996e0fce"
+  },
+  {
+    "name": "layout-student-paths___en",
+    "path": "/:layout/student-paths",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-paths.vue",
+    "chunkName": "pages/_layout/student-paths",
+    "_name": "_8cfca7ac"
+  },
+  {
+    "name": "layout-student-profile___en",
+    "path": "/:layout/student-profile",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-profile.vue",
+    "chunkName": "pages/_layout/student-profile",
+    "_name": "_3b4de665"
+  },
+  {
+    "name": "layout-student-quiz-result___en",
+    "path": "/:layout/student-quiz-result",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-quiz-result.vue",
+    "chunkName": "pages/_layout/student-quiz-result",
+    "_name": "_0e35cb51"
+  },
+  {
+    "name": "layout-student-skill-assessment___en",
+    "path": "/:layout/student-skill-assessment",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-skill-assessment.vue",
+    "chunkName": "pages/_layout/student-skill-assessment",
+    "_name": "_c2ddbd9c"
+  },
+  {
+    "name": "layout-student-skill-result___en",
+    "path": "/:layout/student-skill-result",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-skill-result.vue",
+    "chunkName": "pages/_layout/student-skill-result",
+    "_name": "_01388de6"
+  },
+  {
+    "name": "layout-student-take-course___en",
+    "path": "/:layout/student-take-course",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-take-course.vue",
+    "chunkName": "pages/_layout/student-take-course",
+    "_name": "_6874aedd"
+  },
+  {
+    "name": "layout-student-take-lesson___en",
+    "path": "/:layout/student-take-lesson",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-take-lesson.vue",
+    "chunkName": "pages/_layout/student-take-lesson",
+    "_name": "_d9a6b50c"
+  },
+  {
+    "name": "layout-student-take-quiz___en",
+    "path": "/:layout/student-take-quiz",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\student-take-quiz.vue",
+    "chunkName": "pages/_layout/student-take-quiz",
+    "_name": "_ed50b2d2"
+  },
+  {
+    "name": "layout-teachers___en",
+    "path": "/:layout/teachers",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\teachers.vue",
+    "chunkName": "pages/_layout/teachers",
+    "_name": "_58939073"
+  },
+  {
+    "name": "layout-ui-alerts___en",
+    "path": "/:layout/ui-alerts",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-alerts.vue",
+    "chunkName": "pages/_layout/ui-alerts",
+    "_name": "_12d9c384"
+  },
+  {
+    "name": "layout-ui-app-layout___en",
+    "path": "/:layout/ui-app-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-app-layout.vue",
+    "chunkName": "pages/_layout/ui-app-layout",
+    "_name": "_0a79ce06"
+  },
+  {
+    "name": "layout-ui-avatar___en",
+    "path": "/:layout/ui-avatar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-avatar.vue",
+    "chunkName": "pages/_layout/ui-avatar",
+    "_name": "_6b0d0c00"
+  },
+  {
+    "name": "layout-ui-cards___en",
+    "path": "/:layout/ui-cards",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-cards.vue",
+    "chunkName": "pages/_layout/ui-cards",
+    "_name": "_54dc13e8"
+  },
+  {
+    "name": "layout-ui-chart-area___en",
+    "path": "/:layout/ui-chart-area",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-area.vue",
+    "chunkName": "pages/_layout/ui-chart-area",
+    "_name": "_424426c3"
+  },
+  {
+    "name": "layout-ui-chart-bar___en",
+    "path": "/:layout/ui-chart-bar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-bar.vue",
+    "chunkName": "pages/_layout/ui-chart-bar",
+    "_name": "_6fd90166"
+  },
+  {
+    "name": "layout-ui-chart-doughnut___en",
+    "path": "/:layout/ui-chart-doughnut",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-doughnut.vue",
+    "chunkName": "pages/_layout/ui-chart-doughnut",
+    "_name": "_c85c1690"
+  },
+  {
+    "name": "layout-ui-chart-line___en",
+    "path": "/:layout/ui-chart-line",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-line.vue",
+    "chunkName": "pages/_layout/ui-chart-line",
+    "_name": "_27260aac"
+  },
+  {
+    "name": "layout-ui-chart-radar___en",
+    "path": "/:layout/ui-chart-radar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-chart-radar.vue",
+    "chunkName": "pages/_layout/ui-chart-radar",
+    "_name": "_70e13780"
+  },
+  {
+    "name": "layout-ui-drawer___en",
+    "path": "/:layout/ui-drawer",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-drawer.vue",
+    "chunkName": "pages/_layout/ui-drawer",
+    "_name": "_c74490d0"
+  },
+  {
+    "name": "layout-ui-drawer-layout___en",
+    "path": "/:layout/ui-drawer-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-drawer-layout.vue",
+    "chunkName": "pages/_layout/ui-drawer-layout",
+    "_name": "_078e60a2"
+  },
+  {
+    "name": "layout-ui-fixed-layout___en",
+    "path": "/:layout/ui-fixed-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-fixed-layout.vue",
+    "chunkName": "pages/_layout/ui-fixed-layout",
+    "_name": "_d56dbbec"
+  },
+  {
+    "name": "layout-ui-form-image-group___en",
+    "path": "/:layout/ui-form-image-group",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-form-image-group.vue",
+    "chunkName": "pages/_layout/ui-form-image-group",
+    "_name": "_6df2f26b"
+  },
+  {
+    "name": "layout-ui-forms___en",
+    "path": "/:layout/ui-forms",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-forms.vue",
+    "chunkName": "pages/_layout/ui-forms",
+    "_name": "_500b54d8"
+  },
+  {
+    "name": "layout-ui-header___en",
+    "path": "/:layout/ui-header",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-header.vue",
+    "chunkName": "pages/_layout/ui-header",
+    "_name": "_0e191998"
+  },
+  {
+    "name": "layout-ui-header-layout___en",
+    "path": "/:layout/ui-header-layout",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-header-layout.vue",
+    "chunkName": "pages/_layout/ui-header-layout",
+    "_name": "_07020c93"
+  },
+  {
+    "name": "layout-ui-icons___en",
+    "path": "/:layout/ui-icons",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-icons.vue",
+    "chunkName": "pages/_layout/ui-icons",
+    "_name": "_dd66a37a"
+  },
+  {
+    "name": "layout-ui-input-group-merge___en",
+    "path": "/:layout/ui-input-group-merge",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-input-group-merge.vue",
+    "chunkName": "pages/_layout/ui-input-group-merge",
+    "_name": "_6c70f910"
+  },
+  {
+    "name": "layout-ui-perfect-scrollbar___en",
+    "path": "/:layout/ui-perfect-scrollbar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-perfect-scrollbar.vue",
+    "chunkName": "pages/_layout/ui-perfect-scrollbar",
+    "_name": "_ffb27fe2"
+  },
+  {
+    "name": "layout-ui-sidebar___en",
+    "path": "/:layout/ui-sidebar",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-sidebar.vue",
+    "chunkName": "pages/_layout/ui-sidebar",
+    "_name": "_6de95576"
+  },
+  {
+    "name": "layout-ui-sidebar-menu___en",
+    "path": "/:layout/ui-sidebar-menu",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-sidebar-menu.vue",
+    "chunkName": "pages/_layout/ui-sidebar-menu",
+    "_name": "_33d08517"
+  },
+  {
+    "name": "layout-ui-syntax-highlight___en",
+    "path": "/:layout/ui-syntax-highlight",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-syntax-highlight.vue",
+    "chunkName": "pages/_layout/ui-syntax-highlight",
+    "_name": "_f1a7c29e"
+  },
+  {
+    "name": "layout-ui-tabs___en",
+    "path": "/:layout/ui-tabs",
+    "component": "F:\\\\10qbit\\\\luma_nuxt-v2\\\\luma-nuxt-v2.2.0\\\\pages\\\\_layout\\\\ui-tabs.vue",
+    "chunkName": "pages/_layout/ui-tabs",
+    "_name": "_cf1e8936"
+  }
+]
